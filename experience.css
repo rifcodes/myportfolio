@@ -3,7 +3,8 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-top: 20rem;
+  margin-top: 10rem;
+  margin-bottom: 10rem;
 }
 
 .experience_title {
